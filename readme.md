@@ -27,151 +27,50 @@ The objective of this project was to clean, analyze, and visualize sales data to
 - All MySQL queries used in this project are documented in a Word file:
   
 
-- The Word file contains:
-- Data exploration queries
-- Aggregations (sales, orders, quantity)
-- Time-based analysis (month, weekday, hour)
-- Product and store-level analysis
+- The SQL documentation includes:
+- Data exploration queries  
+- Sales, orders, and quantity aggregations  
+- Date, weekday, and hourly analysis  
+- Product category and store-level analysis  
 
 ---
 
 ## 📊 Dashboard Features
 The Power BI dashboard provides insights on:
-
-- Total Sales, Total Orders, and Total Quantity Sold
-- Sales trend over time
-- Sales comparison: Weekday vs Weekend
-- Sales by product category
-- Sales by store location
-- Peak sales hours and days using heatmap
-- Month-over-Month performance indicators
-
----
-
-## 📈 Key Insights
-- Total Sales reached **$157K** during the selected period
-- Over **33,000 orders** were analyzed
-- **Weekdays generate higher sales** compared to weekends
-- **Morning hours** show peak sales activity
-- Coffee and espresso-based products contribute the highest revenue
-- **Hell’s Kitchen** store is the top-performing location
-
----
-
-## 🧠 What I Learned
-- Writing and documenting MySQL queries
-- Connecting MySQL data to Power BI
-- Creating calculated measures using DAX
-- Designing clean and business-friendly dashboards
-- Understanding real-world sales data and KPIs
-
----
-
-## 🚀 Future Improvements
-- Add profit and cost analysis
-- Customer segmentation analysis
-- Year-over-Year comparison
-- Predictive sales forecasting
-
----
-
-## 📁 Repository Structure
-
-- The Word file contains:
-- Data exploration queries
-- Aggregations (sales, orders, quantity)
-- Time-based analysis (month, weekday, hour)
-- Product and store-level analysis
-
----
-
-## 📊 Dashboard Features
-The Power BI dashboard provides insights on:
-
-- Total Sales, Total Orders, and Total Quantity Sold
-- Sales trend over time
-- Sales comparison: Weekday vs Weekend
-- Sales by product category
-- Sales by store location
-- Peak sales hours and days using heatmap
-- Month-over-Month performance indicators
+- Total Sales, Total Orders, and Total Quantity Sold  
+- Sales trend over time  
+- Weekday vs Weekend sales comparison  
+- Sales by product category  
+- Sales by store location  
+- Peak sales days and hours using heatmap  
+- Month-over-Month performance comparison  
 
 ---
 
 ## 📈 Key Insights
-- Total Sales reached **$157K** during the selected period
-- Over **33,000 orders** were analyzed
-- **Weekdays generate higher sales** compared to weekends
-- **Morning hours** show peak sales activity
-- Coffee and espresso-based products contribute the highest revenue
-- **Hell’s Kitchen** store is the top-performing location
+- Total Sales of **$157K** during the selected period  
+- Over **33,000 orders** analyzed  
+- **Weekdays generate higher sales** compared to weekends  
+- **Morning hours** show peak customer activity  
+- Coffee and espresso-based products contribute the highest revenue  
+- **Hell’s Kitchen** is the top-performing store location  
 
 ---
 
 ## 🧠 What I Learned
-- Writing and documenting MySQL queries
-- Connecting MySQL data to Power BI
-- Creating calculated measures using DAX
-- Designing clean and business-friendly dashboards
-- Understanding real-world sales data and KPIs
+- Writing and documenting MySQL queries  
+- Performing real-world sales analysis  
+- Connecting MySQL data to Power BI  
+- Creating calculated measures using DAX  
+- Designing clean and business-focused dashboards  
 
 ---
 
 ## 🚀 Future Improvements
-- Add profit and cost analysis
-- Customer segmentation analysis
-- Year-over-Year comparison
-- Predictive sales forecasting
-
----
-
-## 📁 Repository Structure
-
-- The Word file contains:
-- Data exploration queries
-- Aggregations (sales, orders, quantity)
-- Time-based analysis (month, weekday, hour)
-- Product and store-level analysis
-
----
-
-## 📊 Dashboard Features
-The Power BI dashboard provides insights on:
-
-- Total Sales, Total Orders, and Total Quantity Sold
-- Sales trend over time
-- Sales comparison: Weekday vs Weekend
-- Sales by product category
-- Sales by store location
-- Peak sales hours and days using heatmap
-- Month-over-Month performance indicators
-
----
-
-## 📈 Key Insights
-- Total Sales reached **$157K** during the selected period
-- Over **33,000 orders** were analyzed
-- **Weekdays generate higher sales** compared to weekends
-- **Morning hours** show peak sales activity
-- Coffee and espresso-based products contribute the highest revenue
-- **Hell’s Kitchen** store is the top-performing location
-
----
-
-## 🧠 What I Learned
-- Writing and documenting MySQL queries
-- Connecting MySQL data to Power BI
-- Creating calculated measures using DAX
-- Designing clean and business-friendly dashboards
-- Understanding real-world sales data and KPIs
-
----
-
-## 🚀 Future Improvements
-- Add profit and cost analysis
-- Customer segmentation analysis
-- Year-over-Year comparison
-- Predictive sales forecasting
+- Profit and cost analysis  
+- Customer segmentation  
+- Year-over-Year comparison  
+- Sales forecasting  
 
 ---
 
@@ -192,9 +91,11 @@ coffee-shop-sales-analysis/
 │
 └── README.md
 
-
 ---
 
 ## 📬 Connect With Me
-**Name:** Jaskaran  
-**LinkedIn:** (add your LinkedIn profile link here)
+**Name:** Jaskaran Singh  
+**LinkedIn:** https://www.linkedin.com/in/jaskaran-singh-5b9b5b301  
+
+
+
