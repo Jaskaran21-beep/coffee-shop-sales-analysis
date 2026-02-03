@@ -70,26 +70,7 @@ The Power BI dashboard provides insights on:
 - Profit and cost analysis  
 - Customer segmentation  
 - Year-over-Year comparison  
-- Sales forecasting  
-
----
-
-## 📁 Repository Structure
-coffee-shop-sales-analysis/
-│
-├── data/
-│ └── coffee_shop_sales.csv
-│
-├── sql/
-│ └── My SQL Queries.docx
-│
-├── powerbi/
-│ └── coffee_shop_sales_dashboard.pbix
-│
-├── images/
-│ └── dashboard.png
-│
-└── README.md
+- Sales forecasting  
 
 ---
 
